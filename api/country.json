@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "total_countries": 10,
+  "countries": [
+    { "id": "us", "name": "United States", "code": "US", "server_ip": "10.10.1.1", "status": "online" },
+    { "id": "uk", "name": "United Kingdom", "code": "GB", "server_ip": "10.10.2.1", "status": "online" },
+    { "id": "de", "name": "Germany", "code": "DE", "server_ip": "10.10.3.1", "status": "online" },
+    { "id": "jp", "name": "Japan", "code": "JP", "server_ip": "10.10.4.1", "status": "online" },
+    { "id": "ca", "name": "Canada", "code": "CA", "server_ip": "10.10.5.1", "status": "online" },
+    { "id": "sg", "name": "Singapore", "code": "SG", "server_ip": "10.10.6.1", "status": "online" },
+    { "id": "nl", "name": "Netherlands", "code": "NL", "server_ip": "10.10.7.1", "status": "online" },
+    { "id": "au", "name": "Australia", "code": "AU", "server_ip": "10.10.8.1", "status": "online" },
+    { "id": "fr", "name": "France", "code": "FR", "server_ip": "10.10.9.1", "status": "online" },
+    { "id": "ch", "name": "Switzerland", "code": "CH", "server_ip": "10.10.10.1", "status": "online" }
+  ]
+}
