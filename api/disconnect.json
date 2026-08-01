@@ -1,0 +1,9 @@
+{
+  "status": "success",
+  "message": "VPN disconnected successfully",
+  "session": {
+    "session_id": "vpn-sess-10001",
+    "vpn_status": "DISCONNECTED",
+    "bytes_transferred": 52428800
+  }
+}
