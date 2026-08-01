@@ -1,0 +1,6 @@
+{
+  "status": "error",
+  "error_code": 404,
+  "message": "Country not found",
+  "details": "The requested country code or server target could not be found."
+}
