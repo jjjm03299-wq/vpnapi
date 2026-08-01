@@ -1,0 +1,11 @@
+{
+  "status": "success",
+  "message": "VPN connected successfully",
+  "session": {
+    "session_id": "vpn-sess-10001",
+    "country_code": "US",
+    "assigned_ip": "10.200.0.15",
+    "server_ip": "10.10.1.1",
+    "vpn_status": "CONNECTED"
+  }
+}
